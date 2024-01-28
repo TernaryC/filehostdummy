@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="anne-rm.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="AnneGhost Down0000" x="10" y="10" width="1036" height="1360" frameX="0" frameY="-16" frameWidth="1036" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Down0001" x="10" y="10" width="1036" height="1360" frameX="0" frameY="-16" frameWidth="1036" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Down0002" x="1056" y="10" width="1007" height="1376" frameX="-24" frameY="0" frameWidth="1036" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Down0003" x="1056" y="10" width="1007" height="1376" frameX="-24" frameY="0" frameWidth="1036" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Down0004" x="1056" y="10" width="1007" height="1376" frameX="-24" frameY="0" frameWidth="1036" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Down0005" x="1056" y="10" width="1007" height="1376" frameX="-24" frameY="0" frameWidth="1036" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Down0006" x="1056" y="10" width="1007" height="1376" frameX="-24" frameY="0" frameWidth="1036" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Down0007" x="1056" y="10" width="1007" height="1376" frameX="-24" frameY="0" frameWidth="1036" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Down0008" x="1056" y="10" width="1007" height="1376" frameX="-24" frameY="0" frameWidth="1036" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Down0009" x="1056" y="10" width="1007" height="1376" frameX="-24" frameY="0" frameWidth="1036" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Idle0000" x="2073" y="10" width="1076" height="1310" frameX="0" frameY="-62" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0001" x="2073" y="10" width="1076" height="1310" frameX="0" frameY="-62" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0002" x="3159" y="10" width="1064" height="1333" frameX="-10" frameY="-39" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0003" x="3159" y="10" width="1064" height="1333" frameX="-10" frameY="-39" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0004" x="4233" y="10" width="1050" height="1356" frameX="-24" frameY="-16" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0005" x="4233" y="10" width="1050" height="1356" frameX="-24" frameY="-16" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0006" x="5293" y="10" width="1047" height="1372" frameX="-25" frameY="0" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0007" x="5293" y="10" width="1047" height="1372" frameX="-25" frameY="0" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0008" x="5293" y="10" width="1047" height="1372" frameX="-25" frameY="0" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0009" x="5293" y="10" width="1047" height="1372" frameX="-25" frameY="0" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0010" x="5293" y="10" width="1047" height="1372" frameX="-25" frameY="0" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0011" x="5293" y="10" width="1047" height="1372" frameX="-25" frameY="0" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0012" x="5293" y="10" width="1047" height="1372" frameX="-25" frameY="0" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0013" x="5293" y="10" width="1047" height="1372" frameX="-25" frameY="0" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Idle0014" x="5293" y="10" width="1047" height="1372" frameX="-25" frameY="0" frameWidth="1076" frameHeight="1372"/>
+	<SubTexture name="AnneGhost Left0000" x="6350" y="10" width="1011" height="1347" frameX="-2" frameY="-11" frameWidth="1038" frameHeight="1358"/>
+	<SubTexture name="AnneGhost Left0001" x="6350" y="10" width="1011" height="1347" frameX="-2" frameY="-11" frameWidth="1038" frameHeight="1358"/>
+	<SubTexture name="AnneGhost Left0002" x="10" y="1396" width="1038" height="1358"/>
+	<SubTexture name="AnneGhost Left0003" x="10" y="1396" width="1038" height="1358"/>
+	<SubTexture name="AnneGhost Left0004" x="10" y="1396" width="1038" height="1358"/>
+	<SubTexture name="AnneGhost Left0005" x="10" y="1396" width="1038" height="1358"/>
+	<SubTexture name="AnneGhost Left0006" x="10" y="1396" width="1038" height="1358"/>
+	<SubTexture name="AnneGhost Left0007" x="10" y="1396" width="1038" height="1358"/>
+	<SubTexture name="AnneGhost Left0008" x="10" y="1396" width="1038" height="1358"/>
+	<SubTexture name="AnneGhost Left0009" x="10" y="1396" width="1038" height="1358"/>
+	<SubTexture name="AnneGhost Right0000" x="1058" y="1396" width="1047" height="1362"/>
+	<SubTexture name="AnneGhost Right0001" x="1058" y="1396" width="1047" height="1362"/>
+	<SubTexture name="AnneGhost Right0002" x="2115" y="1396" width="1035" height="1358" frameX="-2" frameY="-4" frameWidth="1047" frameHeight="1362"/>
+	<SubTexture name="AnneGhost Right0003" x="2115" y="1396" width="1035" height="1358" frameX="-2" frameY="-4" frameWidth="1047" frameHeight="1362"/>
+	<SubTexture name="AnneGhost Right0004" x="2115" y="1396" width="1035" height="1358" frameX="-2" frameY="-4" frameWidth="1047" frameHeight="1362"/>
+	<SubTexture name="AnneGhost Right0005" x="2115" y="1396" width="1035" height="1358" frameX="-2" frameY="-4" frameWidth="1047" frameHeight="1362"/>
+	<SubTexture name="AnneGhost Right0006" x="2115" y="1396" width="1035" height="1358" frameX="-2" frameY="-4" frameWidth="1047" frameHeight="1362"/>
+	<SubTexture name="AnneGhost Right0007" x="2115" y="1396" width="1035" height="1358" frameX="-2" frameY="-4" frameWidth="1047" frameHeight="1362"/>
+	<SubTexture name="AnneGhost Right0008" x="2115" y="1396" width="1035" height="1358" frameX="-2" frameY="-4" frameWidth="1047" frameHeight="1362"/>
+	<SubTexture name="AnneGhost Right0009" x="2115" y="1396" width="1035" height="1358" frameX="-2" frameY="-4" frameWidth="1047" frameHeight="1362"/>
+	<SubTexture name="AnneGhost Up0000" x="3160" y="1396" width="1017" height="1376" frameX="-2" frameY="0" frameWidth="1024" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Up0001" x="3160" y="1396" width="1017" height="1376" frameX="-2" frameY="0" frameWidth="1024" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Up0002" x="4187" y="1396" width="1024" height="1353" frameX="0" frameY="-23" frameWidth="1024" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Up0003" x="4187" y="1396" width="1024" height="1353" frameX="0" frameY="-23" frameWidth="1024" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Up0004" x="4187" y="1396" width="1024" height="1353" frameX="0" frameY="-23" frameWidth="1024" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Up0005" x="4187" y="1396" width="1024" height="1353" frameX="0" frameY="-23" frameWidth="1024" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Up0006" x="4187" y="1396" width="1024" height="1353" frameX="0" frameY="-23" frameWidth="1024" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Up0007" x="4187" y="1396" width="1024" height="1353" frameX="0" frameY="-23" frameWidth="1024" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Up0008" x="4187" y="1396" width="1024" height="1353" frameX="0" frameY="-23" frameWidth="1024" frameHeight="1376"/>
+	<SubTexture name="AnneGhost Up0009" x="4187" y="1396" width="1024" height="1353" frameX="0" frameY="-23" frameWidth="1024" frameHeight="1376"/>
+</TextureAtlas>

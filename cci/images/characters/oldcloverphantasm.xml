@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="oldcloverphantasm.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clover downmiss0000" x="35" y="35" width="453" height="552" frameX="-6" frameY="0" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0001" x="35" y="35" width="453" height="552" frameX="-6" frameY="0" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0002" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0003" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0004" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0005" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0006" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0007" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0008" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0009" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0010" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0011" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0012" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0013" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0014" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0015" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0016" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0017" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0018" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0019" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0020" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0021" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0022" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0023" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0024" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0025" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0026" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0027" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0028" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover downmiss0029" x="563" y="35" width="465" height="542" frameX="0" frameY="-11" frameWidth="465" frameHeight="553"/>
+	<SubTexture name="clover leftmiss0000" x="1103" y="35" width="492" height="579" frameX="-1" frameY="0" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0001" x="1103" y="35" width="492" height="579" frameX="-1" frameY="0" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0002" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0003" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0004" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0005" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0006" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0007" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0008" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0009" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0010" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0011" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0012" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0013" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0014" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0015" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0016" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0017" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0018" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0019" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0020" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0021" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0022" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0023" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0024" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0025" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0026" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0027" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0028" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover leftmiss0029" x="1670" y="35" width="494" height="566" frameX="0" frameY="-13" frameWidth="494" frameHeight="579"/>
+	<SubTexture name="clover normal down0000" x="2239" y="35" width="453" height="553" frameX="-2" frameY="-3" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0001" x="2239" y="35" width="453" height="553" frameX="-2" frameY="-3" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0002" x="2767" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0003" x="2767" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0004" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0005" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0006" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0007" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0008" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0009" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0010" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0011" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0012" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0013" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0014" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0015" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0016" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0017" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0018" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0019" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0020" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0021" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0022" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0023" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0024" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0025" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0026" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0027" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0028" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal down0029" x="3292" y="35" width="450" height="556" frameX="0" frameY="0" frameWidth="455" frameHeight="556"/>
+	<SubTexture name="clover normal idle0000" x="35" y="689" width="455" height="571" frameX="0" frameY="-14" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0001" x="35" y="689" width="455" height="571" frameX="0" frameY="-14" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0002" x="565" y="689" width="449" height="567" frameX="-4" frameY="-18" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0003" x="565" y="689" width="449" height="567" frameX="-4" frameY="-18" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0004" x="1089" y="689" width="450" height="574" frameX="-1" frameY="-11" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0005" x="1089" y="689" width="450" height="574" frameX="-1" frameY="-11" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0006" x="1614" y="689" width="442" height="580" frameX="-9" frameY="-6" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0007" x="1614" y="689" width="442" height="580" frameX="-9" frameY="-6" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0008" x="2131" y="689" width="441" height="586" frameX="-10" frameY="0" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0009" x="2131" y="689" width="441" height="586" frameX="-10" frameY="0" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0010" x="2131" y="689" width="441" height="586" frameX="-10" frameY="0" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0011" x="2647" y="689" width="441" height="586" frameX="-10" frameY="0" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0012" x="2647" y="689" width="441" height="586" frameX="-10" frameY="0" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal idle0013" x="2647" y="689" width="441" height="586" frameX="-10" frameY="0" frameWidth="455" frameHeight="586"/>
+	<SubTexture name="clover normal left0000" x="3163" y="689" width="493" height="580"/>
+	<SubTexture name="clover normal left0001" x="3163" y="689" width="493" height="580"/>
+	<SubTexture name="clover normal left0002" x="35" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0003" x="35" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0004" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0005" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0006" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0007" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0008" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0009" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0010" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0011" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0012" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0013" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0014" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0015" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0016" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0017" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0018" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0019" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0020" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0021" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0022" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0023" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0024" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0025" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0026" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0027" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0028" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal left0029" x="582" y="1350" width="472" height="579" frameX="-21" frameY="-1" frameWidth="493" frameHeight="580"/>
+	<SubTexture name="clover normal right0000" x="1129" y="1350" width="434" height="607" frameX="-3" frameY="0" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0001" x="1129" y="1350" width="434" height="607" frameX="-3" frameY="0" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0002" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0003" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0004" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0005" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0006" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0007" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0008" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0009" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0010" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0011" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0012" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0013" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0014" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0015" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0016" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0017" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0018" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0019" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0020" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0021" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0022" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0023" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0024" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0025" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0026" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0027" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0028" x="1638" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal right0029" x="2150" y="1350" width="437" height="601" frameX="0" frameY="-6" frameWidth="437" frameHeight="607"/>
+	<SubTexture name="clover normal up0000" x="2662" y="1350" width="432" height="629" frameX="-1" frameY="0" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0001" x="2662" y="1350" width="432" height="629" frameX="-1" frameY="0" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0002" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0003" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0004" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0005" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0006" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0007" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0008" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0009" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0010" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0011" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0012" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0013" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0014" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0015" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0016" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0017" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0018" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0019" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0020" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0021" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0022" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0023" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0024" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0025" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0026" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0027" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0028" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover normal up0029" x="3169" y="1350" width="434" height="621" frameX="0" frameY="-8" frameWidth="434" frameHeight="629"/>
+	<SubTexture name="clover rightmiss0000" x="35" y="2054" width="434" height="606" frameX="-5" frameY="0" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0001" x="35" y="2054" width="434" height="606" frameX="-5" frameY="0" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0002" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0003" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0004" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0005" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0006" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0007" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0008" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0009" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0010" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0011" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0012" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0013" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0014" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0015" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0016" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0017" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0018" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0019" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0020" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0021" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0022" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0023" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0024" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0025" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0026" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0027" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0028" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover rightmiss0029" x="544" y="2054" width="444" height="597" frameX="0" frameY="-10" frameWidth="444" frameHeight="607"/>
+	<SubTexture name="clover upmiss0000" x="1063" y="2054" width="431" height="629" frameX="-10" frameY="0" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0001" x="1063" y="2054" width="431" height="629" frameX="-10" frameY="0" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0002" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0003" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0004" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0005" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0006" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0007" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0008" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0009" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0010" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0011" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0012" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0013" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0014" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0015" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0016" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0017" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0018" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0019" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0020" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0021" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0022" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0023" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0024" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0025" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0026" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0027" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0028" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+	<SubTexture name="clover upmiss0029" x="1569" y="2054" width="451" height="620" frameX="0" frameY="-9" frameWidth="451" frameHeight="629"/>
+</TextureAtlas>

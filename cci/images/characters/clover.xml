@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="clover.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="clorox alt up0000" x="30" y="30" width="624" height="917" frameX="-5" frameY="0" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0001" x="30" y="30" width="624" height="917" frameX="-5" frameY="0" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0002" x="684" y="30" width="634" height="910" frameX="0" frameY="-7" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0003" x="684" y="30" width="634" height="910" frameX="0" frameY="-7" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0004" x="1348" y="30" width="634" height="910" frameX="0" frameY="-7" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0005" x="1348" y="30" width="634" height="910" frameX="0" frameY="-7" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0006" x="2012" y="30" width="634" height="910" frameX="0" frameY="-7" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0007" x="2012" y="30" width="634" height="910" frameX="0" frameY="-7" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0008" x="2012" y="30" width="634" height="910" frameX="0" frameY="-7" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0009" x="2012" y="30" width="634" height="910" frameX="0" frameY="-7" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0010" x="2012" y="30" width="634" height="910" frameX="0" frameY="-7" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0011" x="2012" y="30" width="634" height="910" frameX="0" frameY="-7" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0012" x="2012" y="30" width="634" height="910" frameX="0" frameY="-7" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox alt up0013" x="2012" y="30" width="634" height="910" frameX="0" frameY="-7" frameWidth="634" frameHeight="917"/>
+	<SubTexture name="clorox down0000" x="2676" y="30" width="704" height="812" frameX="-11" frameY="0" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0001" x="2676" y="30" width="704" height="812" frameX="-11" frameY="0" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0002" x="3410" y="30" width="708" height="806" frameX="0" frameY="-6" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0003" x="3410" y="30" width="708" height="806" frameX="0" frameY="-6" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0004" x="4148" y="30" width="708" height="806" frameX="0" frameY="-6" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0005" x="4148" y="30" width="708" height="806" frameX="0" frameY="-6" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0006" x="4886" y="30" width="708" height="806" frameX="0" frameY="-6" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0007" x="4886" y="30" width="708" height="806" frameX="0" frameY="-6" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0008" x="5624" y="30" width="708" height="806" frameX="0" frameY="-6" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0009" x="5624" y="30" width="708" height="806" frameX="0" frameY="-6" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0010" x="5624" y="30" width="708" height="806" frameX="0" frameY="-6" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0011" x="5624" y="30" width="708" height="806" frameX="0" frameY="-6" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0012" x="5624" y="30" width="708" height="806" frameX="0" frameY="-6" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox down0013" x="5624" y="30" width="708" height="806" frameX="0" frameY="-6" frameWidth="715" frameHeight="812"/>
+	<SubTexture name="clorox idle0000" x="6362" y="30" width="455" height="856" frameX="0" frameY="-15" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0001" x="6362" y="30" width="455" height="856" frameX="0" frameY="-15" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0002" x="6847" y="30" width="443" height="857" frameX="-13" frameY="-14" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0003" x="6847" y="30" width="443" height="857" frameX="-13" frameY="-14" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0004" x="7320" y="30" width="447" height="867" frameX="-10" frameY="-4" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0005" x="7320" y="30" width="447" height="867" frameX="-10" frameY="-4" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0006" x="30" y="977" width="449" height="871" frameX="-8" frameY="0" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0007" x="30" y="977" width="449" height="871" frameX="-8" frameY="0" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0008" x="509" y="977" width="450" height="871" frameX="-7" frameY="0" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0009" x="509" y="977" width="450" height="871" frameX="-7" frameY="0" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0010" x="989" y="977" width="450" height="871" frameX="-7" frameY="0" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0011" x="989" y="977" width="450" height="871" frameX="-7" frameY="0" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0012" x="989" y="977" width="450" height="871" frameX="-7" frameY="0" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox idle0013" x="989" y="977" width="450" height="871" frameX="-7" frameY="0" frameWidth="457" frameHeight="871"/>
+	<SubTexture name="clorox left0000" x="1469" y="977" width="711" height="867" frameX="0" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0001" x="1469" y="977" width="711" height="867" frameX="0" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0002" x="2210" y="977" width="710" height="867" frameX="-9" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0003" x="2210" y="977" width="710" height="867" frameX="-9" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0004" x="2950" y="977" width="710" height="867" frameX="-9" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0005" x="2950" y="977" width="710" height="867" frameX="-9" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0006" x="3690" y="977" width="710" height="867" frameX="-9" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0007" x="3690" y="977" width="710" height="867" frameX="-9" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0008" x="3690" y="977" width="710" height="867" frameX="-9" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0009" x="3690" y="977" width="710" height="867" frameX="-9" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0010" x="3690" y="977" width="710" height="867" frameX="-9" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0011" x="3690" y="977" width="710" height="867" frameX="-9" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0012" x="3690" y="977" width="710" height="867" frameX="-9" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox left0013" x="3690" y="977" width="710" height="867" frameX="-9" frameY="0" frameWidth="719" frameHeight="867"/>
+	<SubTexture name="clorox right0000" x="4430" y="977" width="458" height="862"/>
+	<SubTexture name="clorox right0001" x="4430" y="977" width="458" height="862"/>
+	<SubTexture name="clorox right0002" x="4918" y="977" width="443" height="861" frameX="-5" frameY="-1" frameWidth="458" frameHeight="862"/>
+	<SubTexture name="clorox right0003" x="4918" y="977" width="443" height="861" frameX="-5" frameY="-1" frameWidth="458" frameHeight="862"/>
+	<SubTexture name="clorox right0004" x="5391" y="977" width="445" height="861" frameX="-3" frameY="-1" frameWidth="458" frameHeight="862"/>
+	<SubTexture name="clorox right0005" x="5391" y="977" width="445" height="861" frameX="-3" frameY="-1" frameWidth="458" frameHeight="862"/>
+	<SubTexture name="clorox right0006" x="5866" y="977" width="443" height="861" frameX="-5" frameY="-1" frameWidth="458" frameHeight="862"/>
+	<SubTexture name="clorox right0007" x="5866" y="977" width="443" height="861" frameX="-5" frameY="-1" frameWidth="458" frameHeight="862"/>
+	<SubTexture name="clorox right0008" x="5866" y="977" width="443" height="861" frameX="-5" frameY="-1" frameWidth="458" frameHeight="862"/>
+	<SubTexture name="clorox right0009" x="5866" y="977" width="443" height="861" frameX="-5" frameY="-1" frameWidth="458" frameHeight="862"/>
+	<SubTexture name="clorox right0010" x="5866" y="977" width="443" height="861" frameX="-5" frameY="-1" frameWidth="458" frameHeight="862"/>
+	<SubTexture name="clorox right0011" x="5866" y="977" width="443" height="861" frameX="-5" frameY="-1" frameWidth="458" frameHeight="862"/>
+	<SubTexture name="clorox right0012" x="5866" y="977" width="443" height="861" frameX="-5" frameY="-1" frameWidth="458" frameHeight="862"/>
+	<SubTexture name="clorox right0013" x="5866" y="977" width="443" height="861" frameX="-5" frameY="-1" frameWidth="458" frameHeight="862"/>
+	<SubTexture name="clorox up0000" x="6339" y="977" width="628" height="917" frameX="-5" frameY="0" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0001" x="6339" y="977" width="628" height="917" frameX="-5" frameY="0" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0002" x="6997" y="977" width="635" height="910" frameX="0" frameY="-7" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0003" x="6997" y="977" width="635" height="910" frameX="0" frameY="-7" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0004" x="30" y="1924" width="635" height="910" frameX="0" frameY="-7" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0005" x="30" y="1924" width="635" height="910" frameX="0" frameY="-7" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0006" x="695" y="1924" width="635" height="910" frameX="0" frameY="-7" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0007" x="695" y="1924" width="635" height="910" frameX="0" frameY="-7" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0008" x="695" y="1924" width="635" height="910" frameX="0" frameY="-7" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0009" x="695" y="1924" width="635" height="910" frameX="0" frameY="-7" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0010" x="695" y="1924" width="635" height="910" frameX="0" frameY="-7" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0011" x="695" y="1924" width="635" height="910" frameX="0" frameY="-7" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0012" x="695" y="1924" width="635" height="910" frameX="0" frameY="-7" frameWidth="635" frameHeight="917"/>
+	<SubTexture name="clorox up0013" x="695" y="1924" width="635" height="910" frameX="0" frameY="-7" frameWidth="635" frameHeight="917"/>
+</TextureAtlas>
