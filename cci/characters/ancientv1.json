@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				10
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "CLOVER-IDLE",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				221,
+				26
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "CLOVER-LEFT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-12,
+				1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "CLOVER-RIGHT",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				87,
+				51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "CLOVER-UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				33,
+				-169
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "CLOVER-DOWN",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/ancient_clover",
+	"position": [
+		0,
+		-60
+	],
+	"healthicon": "AncientV1",
+	"flip_x": false,
+	"healthbar_colors": [
+		5,
+		217,
+		5
+	],
+	"camera_position": [
+		-10,
+		70
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

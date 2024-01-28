@@ -1,0 +1,5 @@
+Event used to move notes around during a song.
+Leave blank to disable movements. (DOES NOT reset position!!)
+
+Value 1: Position (left, right, middle)
+Value 2: [unused]

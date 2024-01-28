@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				12,
+				58
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "normali"
+		},
+		{
+			"offsets": [
+				12,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "normald"
+		},
+		{
+			"offsets": [
+				55,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "normall"
+		},
+		{
+			"offsets": [
+				-22,
+				78
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "normalr"
+		},
+		{
+			"offsets": [
+				11,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "normalu"
+		},
+		{
+			"offsets": [
+				5,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "missdown"
+		},
+		{
+			"offsets": [
+				-1,
+				-88
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "missup"
+		},
+		{
+			"offsets": [
+				-21,
+				79
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "missright"
+		},
+		{
+			"offsets": [
+				56,
+				-16
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "missleft"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fleetgay",
+	"position": [
+		50,
+		-10
+	],
+	"healthicon": "fleetwayclover",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		182,
+		10
+	],
+	"camera_position": [
+		40,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.3
+}

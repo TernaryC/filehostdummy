@@ -1,0 +1,4 @@
+Change the icon shown on character lyrics.
+
+Value 1 is the image name in images/lyricIcons.
+Value 2 is unused.

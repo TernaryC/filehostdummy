@@ -1,0 +1,4 @@
+Sets the title and description of a song.
+
+V1: Title
+V2: Description

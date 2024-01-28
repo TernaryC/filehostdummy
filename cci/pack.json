@@ -1,0 +1,7 @@
+{
+	"name": "Clover's Cave-In (Conversion)",
+	"description": "An unofficial conversion of the Clover's Cave-In mod from standalone exe to mod-folder format, intended for use with the Psych Online mod",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [45, 215, 109]
+}

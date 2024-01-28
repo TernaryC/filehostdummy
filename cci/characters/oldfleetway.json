@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				8,
+				12
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "clover normal idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				-18
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "clover normal down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				2,
+				6
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "clover normal left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				5,
+				33
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "clover normal right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				55
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "clover normal up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				6,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "clover downmiss"
+		},
+		{
+			"offsets": [
+				0,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "clover upmiss"
+		},
+		{
+			"offsets": [
+				7,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "clover leftmiss"
+		},
+		{
+			"offsets": [
+				6,
+				32
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "clover rightmiss"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oldfleetway",
+	"position": [
+		60,
+		140
+	],
+	"healthicon": "oldfleetway",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		179,
+		38
+	],
+	"camera_position": [
+		-70,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

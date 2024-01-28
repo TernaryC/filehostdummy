@@ -1,0 +1,4 @@
+Cinematic bars, woo!
+
+Value 1: amount to move them by
+Value 2: ease

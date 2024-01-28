@@ -1,0 +1,38 @@
+{
+	"song": {
+		"speed": 2.6,
+		"stage": "clover-cave",
+		"player1": "bf",
+		"player2": "clover",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Song Info",
+						"GOLDEN-GREEN",
+						"Song by Becca.XD / Chart by Becca.XD"
+					]
+				]
+			],
+			[
+				139171.597633136,
+				[
+					[
+						"Change Scroll Speed",
+						"0.9",
+						"3"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-miner",
+		"bpm": 169,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Golden-Green"
+	}
+}

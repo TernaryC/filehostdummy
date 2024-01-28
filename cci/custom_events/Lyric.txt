@@ -1,0 +1,9 @@
+Add character lyrics to the screen!
+Format is as follows:
+Input 1: Lyrics Text (line breaks should be converted to \n !)
+Input 2: Parameters
+
+For the parameters, the format is as follows:
+smoothOut:timeInSteps
+smoothOut should be 0 or 1, 1 being smoothing out and 0 being snap out
+time in steps is how many steps you want the text to be up for before it disappears.

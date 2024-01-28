@@ -1,0 +1,38 @@
+{
+	"song": {
+		"speed": 2.1,
+		"stage": "clover-cave-legacy",
+		"player1": "bf",
+		"player2": "v1",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Song Info",
+						"BACKTRACK",
+						"Song by Nicky / Chart by Becca.XD"
+					]
+				]
+			],
+			[
+				86625,
+				[
+					[
+						"Hey!",
+						"",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf-miner",
+		"bpm": 160,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Backtrack"
+	}
+}

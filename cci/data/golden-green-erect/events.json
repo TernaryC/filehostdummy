@@ -1,0 +1,88 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "clover-cave-erect",
+		"player1": "erect-bf",
+		"player2": "erect-clover",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Song Info",
+						"GOLDEN-GREEN (ERECT)",
+						"Remix by Becca.XD / Chart by Becca.XD"
+					]
+				]
+			],
+			[
+				139509.728561134,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						"1"
+					],
+					[
+						"Camera Follow Pos",
+						"400",
+						"255"
+					],
+					[
+						"Better Cinematics",
+						"1",
+						"100"
+					]
+				]
+			],
+			[
+				139640.163343742,
+				[
+					[
+						"Play Animation",
+						"Transition",
+						"dad"
+					]
+				]
+			],
+			[
+				157640.163343743,
+				[
+					[
+						"Camera Follow Pos",
+						"900",
+						"500"
+					]
+				]
+			],
+			[
+				174335.815517656,
+				[
+					[
+						"Camera Follow Pos",
+						"",
+						""
+					]
+				]
+			],
+			[
+				212161.902474177,
+				[
+					[
+						"Better Cinematics",
+						"3",
+						"0"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "erect-gf",
+		"bpm": 181,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Golden-Green Erect"
+	}
+}

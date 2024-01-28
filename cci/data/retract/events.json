@@ -1,0 +1,28 @@
+{
+	"song": {
+		"speed": 2.7,
+		"stage": "clover-cave-legacy",
+		"player1": "bf",
+		"player2": "v1",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Song Info",
+						"RETRACT",
+						"Song by Hazelpy / Chart by Becca.XD"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-miner",
+		"bpm": 180,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "RETRACT"
+	}
+}

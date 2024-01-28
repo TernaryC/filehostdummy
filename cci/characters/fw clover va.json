@@ -1,0 +1,67 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				82,
+				192
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "enough",
+			"indices": [],
+			"name": "ENOUGH"
+		},
+		{
+			"offsets": [
+				80,
+				294
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "laugh",
+			"indices": [],
+			"name": "LAUGH"
+		},
+		{
+			"offsets": [
+				85,
+				322
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "growl",
+			"indices": [],
+			"name": "grr"
+		},
+		{
+			"offsets": [
+				86,
+				322
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "grr"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/fleetva",
+	"position": [
+		60,
+		-10
+	],
+	"healthicon": "fleetwayclover",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		182,
+		10
+	],
+	"camera_position": [
+		90,
+		-70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

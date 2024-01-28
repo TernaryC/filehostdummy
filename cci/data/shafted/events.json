@@ -1,0 +1,68 @@
+{
+	"song": {
+		"speed": 2.4,
+		"stage": "clover-cave",
+		"player1": "bf",
+		"player2": "clover",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Song Info",
+						"SHAFTED",
+						"Song by Kola Appel / Chart by Kola Appel"
+					]
+				]
+			],
+			[
+				40421.0526315789,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						""
+					]
+				]
+			],
+			[
+				60631.5789473684,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				80842.1052631578,
+				[
+					[
+						"Change Scroll Speed",
+						"1.15",
+						""
+					]
+				]
+			],
+			[
+				101052.631578947,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Inutile"
+	}
+}

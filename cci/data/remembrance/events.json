@@ -1,0 +1,48 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "clover-cave",
+		"player1": "bf",
+		"player2": "clover",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Song Info",
+						"REMEMBRANCE",
+						"Song by Wynter / Chart by Nicky"
+					]
+				]
+			],
+			[
+				5333.33333333333,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.07"
+					]
+				]
+			],
+			[
+				16000,
+				[
+					[
+						"Add Camera Zoom",
+						"0.07",
+						"0.07"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 180,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "REMEMBRANCE"
+	}
+}

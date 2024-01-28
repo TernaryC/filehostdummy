@@ -1,0 +1,28 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "clover-cave-erect",
+		"player1": "erect-bf",
+		"player2": "erect-clover",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Song Info",
+						"SHAFTED (ERECT)",
+						" Remix by DrazicallyEDM & Nicky / Chart by Becca.XD"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "erect-gf",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Shafted Erect"
+	}
+}

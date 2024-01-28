@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				8,
+				12
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "clover normal idle"
+		},
+		{
+			"offsets": [
+				11,
+				-18
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "clover normal down"
+		},
+		{
+			"offsets": [
+				52,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "clover normal left"
+		},
+		{
+			"offsets": [
+				-5,
+				33
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "clover normal right"
+		},
+		{
+			"offsets": [
+				-7,
+				55
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "clover normal up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				-25
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "clover downmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-1,
+				53
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "clover upmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				47,
+				6
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "clover leftmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				34
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "clover rightmiss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/oldcloverphantasm",
+	"position": [
+		60,
+		140
+	],
+	"healthicon": "oldphantasm",
+	"flip_x": true,
+	"healthbar_colors": [
+		25,
+		117,
+		74
+	],
+	"camera_position": [
+		-70,
+		70
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

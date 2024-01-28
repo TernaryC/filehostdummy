@@ -1,0 +1,28 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "clover-cave",
+		"player1": "bf",
+		"player2": "legacy_clover",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Song Info",
+						"GOLDEN-GREEN (LEGACY)",
+						"Song by Becca.XD / Chart by Becca.XD"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 169,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"song": "Golden-Green-Legacy"
+	}
+}

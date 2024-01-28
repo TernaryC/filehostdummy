@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				18,
+				52
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "normali"
+		},
+		{
+			"offsets": [
+				19,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "normald"
+		},
+		{
+			"offsets": [
+				44,
+				46
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "normall"
+		},
+		{
+			"offsets": [
+				9,
+				60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "normalr"
+		},
+		{
+			"offsets": [
+				6,
+				85
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "normalu"
+		},
+		{
+			"offsets": [
+				17,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "MISSnormald"
+		},
+		{
+			"offsets": [
+				-1,
+				84
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "MISSnormalu"
+		},
+		{
+			"offsets": [
+				44,
+				44
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "MISSnormall"
+		},
+		{
+			"offsets": [
+				7,
+				59
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "MISSnormalr"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/clover-releaseme",
+	"position": [
+		-210,
+		-120
+	],
+	"healthicon": "cloverphantasm",
+	"flip_x": true,
+	"healthbar_colors": [
+		9,
+		128,
+		39
+	],
+	"camera_position": [
+		-275,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

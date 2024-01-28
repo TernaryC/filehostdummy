@@ -1,0 +1,1568 @@
+{
+	"song": {
+		"speed": 2.8,
+		"stage": "fleet",
+		"player1": "fw clover pov",
+		"player2": "fleetwayclover",
+		"events": [
+			[
+				0,
+				[
+					[
+						"Set Song Info",
+						"RELEASE-ME - Phantasm Cover / Remix",
+						"Song by honkish - Chart by allacated"
+					]
+				]
+			],
+			[
+				36000,
+				[
+					[
+						"Player Note Anchor",
+						"left",
+						""
+					],
+					[
+						"Fleetway Swap",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				46312.5,
+				[
+					[
+						"Change Lyric Icon",
+						"fleetlaugh",
+						""
+					]
+				]
+			],
+			[
+				46500,
+				[
+					[
+						"Lyric",
+						"ruAHA",
+						"0:2"
+					]
+				]
+			],
+			[
+				46687.5,
+				[
+					[
+						"Lyric",
+						"ruAHAHA",
+						"0:2"
+					]
+				]
+			],
+			[
+				46875,
+				[
+					[
+						"Lyric",
+						"ruAHAHAHA",
+						"0:2"
+					]
+				]
+			],
+			[
+				47062.5,
+				[
+					[
+						"Lyric",
+						"ruAHAHAHAHA",
+						"0:2"
+					]
+				]
+			],
+			[
+				47250,
+				[
+					[
+						"Lyric",
+						"ruAHAHAHAHAHA",
+						"0:2"
+					]
+				]
+			],
+			[
+				47437.5,
+				[
+					[
+						"Lyric",
+						"ruAHAHAHAHAHAHA",
+						"0:2"
+					]
+				]
+			],
+			[
+				47625,
+				[
+					[
+						"Lyric",
+						"ruAHAHAHAHAHAHAHA",
+						"0:2"
+					]
+				]
+			],
+			[
+				47812.5,
+				[
+					[
+						"Lyric",
+						"ruAHAHAHAHAHAHAHAHA-",
+						"0:2"
+					]
+				]
+			],
+			[
+				60000,
+				[
+					[
+						"Player Note Anchor",
+						"right",
+						""
+					],
+					[
+						"Fleetway Swap",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				72000,
+				[
+					[
+						"Player Note Anchor",
+						"left",
+						""
+					],
+					[
+						"Fleetway Swap",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				96000,
+				[
+					[
+						"Player Note Anchor",
+						"right",
+						""
+					],
+					[
+						"Fleetway Swap",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				107906.25,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.22"
+					]
+				]
+			],
+			[
+				108000,
+				[
+					[
+						"Player Note Anchor",
+						"middle",
+						""
+					],
+					[
+						"Cinematic Bars",
+						"220",
+						"quadOut"
+					],
+					[
+						"Change Character",
+						"0",
+						"fw clover pov"
+					]
+				]
+			],
+			[
+				118406.25,
+				[
+					[
+						"Change Lyric Icon",
+						"fleetbefuddled",
+						""
+					]
+				]
+			],
+			[
+				118500,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"1.07"
+					],
+					[
+						"Lyric",
+						"pff-",
+						"0:3"
+					]
+				]
+			],
+			[
+				118593.75,
+				[
+					[
+						"Change Lyric Icon",
+						"fleetlaugh",
+						""
+					]
+				]
+			],
+			[
+				118732.03125,
+				[
+					[
+						"Lyric",
+						"ha",
+						"0:2"
+					]
+				]
+			],
+			[
+				118914.84375,
+				[
+					[
+						"Lyric",
+						"haHA",
+						"0:2"
+					]
+				]
+			],
+			[
+				119114.0625,
+				[
+					[
+						"Lyric",
+						"haHAHA",
+						"0:3"
+					]
+				]
+			],
+			[
+				119343.75,
+				[
+					[
+						"Lyric",
+						"haHAHAHA",
+						"0:2"
+					]
+				]
+			],
+			[
+				119531.25,
+				[
+					[
+						"Lyric",
+						"haHAHAHAHA",
+						"0:2"
+					]
+				]
+			],
+			[
+				119718.75,
+				[
+					[
+						"Lyric",
+						"haHAHAHAHAHA!",
+						"0:2"
+					]
+				]
+			],
+			[
+				120000,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.8"
+					]
+				]
+			],
+			[
+				131062.5,
+				[
+					[
+						"Change Lyric Icon",
+						"fleetbefuddled",
+						""
+					]
+				]
+			],
+			[
+				131156.25,
+				[
+					[
+						"Set Property",
+						"defaultCamZoom",
+						"0.92"
+					]
+				]
+			],
+			[
+				131250,
+				[
+					[
+						"Cinematic Bars",
+						"-220",
+						"quadIn"
+					],
+					[
+						"Lyric",
+						"WHAT!?!",
+						"1:6"
+					]
+				]
+			],
+			[
+				132000,
+				[
+					[
+						"Player Note Anchor",
+						"left",
+						""
+					],
+					[
+						"Fleetway Swap",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				144000,
+				[
+					[
+						"Player Note Anchor",
+						"middle",
+						""
+					]
+				]
+			],
+			[
+				155156.25,
+				[
+					[
+						"Change Lyric Icon",
+						"fleetgrowl",
+						""
+					]
+				]
+			],
+			[
+				155250,
+				[
+					[
+						"Lyric",
+						"ENOUGH!!!",
+						"1:7"
+					]
+				]
+			],
+			[
+				155561.71875,
+				[
+					[
+						"Change Lyric Icon",
+						"fleetlaugh",
+						""
+					]
+				]
+			],
+			[
+				156000,
+				[
+					[
+						"Player Note Anchor",
+						"right",
+						""
+					],
+					[
+						"Fleetway Swap",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				166781.25,
+				[
+					[
+						"Change Lyric Icon",
+						"fleetgrowl",
+						""
+					]
+				]
+			],
+			[
+				166875,
+				[
+					[
+						"Lyric",
+						"grrr...",
+						"1:9"
+					]
+				]
+			],
+			[
+				168000,
+				[
+					[
+						"Player Note Anchor",
+						"left",
+						""
+					],
+					[
+						"Fleetway Swap",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				178875,
+				[
+					[
+						"Lyric",
+						"grrrraAGH!!",
+						"1:10"
+					]
+				]
+			],
+			[
+				180000,
+				[
+					[
+						"Player Note Anchor",
+						"middle",
+						""
+					],
+					[
+						"Fleetway Swap",
+						"off",
+						""
+					]
+				]
+			],
+			[
+				202500,
+				[
+					[
+						"Lyric",
+						"shh",
+						"0:3"
+					]
+				]
+			],
+			[
+				202781.25,
+				[
+					[
+						"Lyric",
+						"shhUT",
+						"0:3"
+					]
+				]
+			],
+			[
+				203015.625,
+				[
+					[
+						"Lyric",
+						"shhUT UP!!",
+						"1:10"
+					]
+				]
+			],
+			[
+				203992.96875,
+				[
+					[
+						"Fleetway Swap",
+						"on",
+						""
+					]
+				]
+			],
+			[
+				204000,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				204093.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				204187.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				204281.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				204375,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				204375,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				204468.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				204562.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				204656.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				204750,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				204843.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				204937.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				205031.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				205125,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				205218.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				205312.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				205406.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				205500,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				205593.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				205687.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				205781.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				205875,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				205968.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				206062.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				206156.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				206250,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				206343.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				206437.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				206531.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				206625,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				206718.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				206812.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				206906.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				207000,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				207093.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				207187.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				207281.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				207375,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				207468.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				207562.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				207656.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				207750,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				207843.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				207937.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				208031.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				208125,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				208218.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				208312.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				208406.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				208500,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				208593.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				208687.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				208781.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				208875,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				208968.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				209062.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				209156.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				209250,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				209343.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				209437.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				209531.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				209625,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				209718.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				209812.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				209906.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				211968.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				212062.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				212156.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				212250,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				213562.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				213656.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				213750,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				215437.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				215531.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				215625,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				215718.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				215812.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				217875,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				217968.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				218062.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				218156.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				218250,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				218343.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				218437.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				218531.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				218625,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				218718.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				218812.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				219562.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				219656.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				219750,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				220875,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				220875,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				220968.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				221062.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				221156.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				221250,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				221250,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				221343.75,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				221437.5,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				221531.25,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				221625,
+				[
+					[
+						"Comment",
+						"this is a bunch of",
+						"bullshit"
+					]
+				]
+			],
+			[
+				227906.25,
+				[
+					[
+						"Change Lyric Icon",
+						"fleetbefuddled",
+						""
+					]
+				]
+			],
+			[
+				228000,
+				[
+					[
+						"Lyric",
+						"NOOOO!!!!",
+						"1:20"
+					]
+				]
+			],
+			[
+				231000,
+				[
+					[
+						"Fleetway Swap",
+						"off",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 160,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "RELEASE-ME"
+	}
+}

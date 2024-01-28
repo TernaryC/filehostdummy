@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				10,
+				10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "clover idle"
+		},
+		{
+			"offsets": [
+				129,
+				26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "clover left"
+		},
+		{
+			"offsets": [
+				-102,
+				1
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "clover right"
+		},
+		{
+			"offsets": [
+				-77,
+				96
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "clover down"
+		},
+		{
+			"offsets": [
+				47,
+				41
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "clover up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/legacy_clover",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "legacyclover",
+	"flip_x": false,
+	"healthbar_colors": [
+		16,
+		125,
+		82
+	],
+	"camera_position": [
+		160,
+		-120
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
